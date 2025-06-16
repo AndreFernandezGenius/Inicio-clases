@@ -1,29 +1,3 @@
-
-export class Calculadora1 {
-
-
-
-
-  sumaDosNumeros() {
-    return this.valor1 + this.valor2;
-  }
-
-  restaDosNumeros() {
-    return this.valor1 - this.valor2;
-  }
-
-  multiplicar() {
-    return this.valor1 * this.valor2;
-  }
-
-  dividir() {
-    return this.valor1/this.valor2;
-  }
-}
-
-
-
-
 //2do apartado
 export class Calculadora2 {
 
@@ -49,3 +23,7 @@ export class Calculadora2 {
       return this.valor1/this.valor2;
   }
 }
+
+
+
+
